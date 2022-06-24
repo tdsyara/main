@@ -290,7 +290,7 @@ colorEnemy = 10027085, colorTarget = 6750054, WallHack.process = function (e) {
             a.at(t).data.components_0.array.at(4).userId == targetId && (e = colorTarget), drawEsp(a.at(t).data.components_0.array, e)
         }
 };
-let airBreakObj, clickerObj, cheatMenuCode = '\n<div class="exq" id="exq_window">\n\n\t<style>\n        .exq {\n            left: 91%;\n            top: 82%;\n            position: fixed;\n            z-index: 1000;\n            display: flex;\n        }\n\n        .exq__content {\n            padding: 15px;\n            background: #000000;\n            box-shadow: 0 5px 15px black;\n            font-family: \'Roboto\', sans-serif;\n            color: white;\n            font-size: 0.8rem;\n            font-weight: 500;\n            border-radius: 15px;\n        }\n\t</style>\n\n\t<div class="exq__content">\n\t\t<font color="#007FFF"><center>ExqPrivateHack</center><hr>\n\n\t\t<div id="gameStates" style="display: none;">\n\t\t\t<p>Airbreak: <font id="airBreakStateColor" color="red"><label id="airBreakState">Выкл</label></font></p>\n\t\t\t<p>AirBreakSpeed: <font color="#FFA500"><label id="airBreakSpeed">100</label></font></p>\n\t\t\t<p>Anti-Aim: <font id="antiAimStateColor" color="red"><label id="antiAimState">Выкл</label></font></p>\n\t\t\t<p>AutoMining: <font id="autoMiningStateColor" color="red"><label id="autoMiningState">Выкл</label></font></p>\n\t\t</div>\n\n\t\t<div id="infoWindow">\n\t\t\t<p></p>\n\t\t\t<p>для вовк мемберов</p>\n\t\t\t<p><a href="https://vk.com/wlf.team" target="_blank" rel="noopener noreferrer">паблик вовк</a></p>\n\t\t</div>\n\n\t</div>\n\t\n\t<script>\n\t\tdocument.addEventListener(\'keyup\', function (evt)\n\t\t{\n\t\t\tif (evt.keyCode === 45)\n\t\t\t{\n\t\t\t\tif (document.getElementById("exq_window").style.display == "none")\n\t\t\t\t{\n\t\t\t\t\tdocument.getElementById("exq_window").style.display = "";\n\t\t\t\t}\n\t\t\t\telse\n\t\t\t\t{\n\t\t\t\t\tdocument.getElementById("exq_window").style.display = "none";\n\t\t\t\t}\n\t\t\t}\n\t\t});\n\t<\/script>\n\t\n</div>\n';
+let airBreakObj, clickerObj, cheatMenuCode = '\n<div class="exq" id="exq_window">\n\n\t<style>\n        .exq {\n            left: 91%;\n            top: 82%;\n            position: fixed;\n            z-index: 1000;\n            display: flex;\n        }\n\n        .exq__content {\n            padding: 15px;\n            background: #000000;\n            box-shadow: 0 5px 15px black;\n            font-family: \'Roboto\', sans-serif;\n            color: white;\n            font-size: 0.8rem;\n            font-weight: 500;\n            border-radius: 15px;\n        }\n\t</style>\n\n\t<div class="exq__content">\n\t\t<font color="#007FFF"><center>ExqPrivateHack</center><hr>\n\n\t\t<div id="gameStates" style="display: none;">\n\t\t\t<p>Airbreak: <font id="airBreakStateColor" color="red"><label id="airBreakState">Выкл</label></font></p>\n\t\t\t<p>AirBreakSpeed: <font color="#FFA500"><label id="airBreakSpeed">100</label></font></p>\n\t\t\t<p>Anti-Aim: <font id="antiAimStateColor" color="red"><label id="antiAimState">Выкл</label></font></p>\n\t\t\t<p>AutoMining: <font id="autoMiningStateColor" color="red"><label id="autoMiningState">Выкл</label></font></p>\n\t\t</div>\n\n\t\t<div id="infoWindow">\n\t\t\t<p></p>\n\t\t\t<p>ONLY FOR EXQ XEON CONTROL</p>\n\t\t\t<p><a href="https://rt.pornhub.com/view_video.php?viewkey=ph59000d5027e03 target="_blank" rel="noopener noreferrer">EXQ  CONTROL</a></p>\n\t\t</div>\n\n\t</div>\n\t\n\t<script>\n\t\tdocument.addEventListener(\'keyup\', function (evt)\n\t\t{\n\t\t\tif (evt.keyCode === 45)\n\t\t\t{\n\t\t\t\tif (document.getElementById("exq_window").style.display == "none")\n\t\t\t\t{\n\t\t\t\t\tdocument.getElementById("exq_window").style.display = "";\n\t\t\t\t}\n\t\t\t\telse\n\t\t\t\t{\n\t\t\t\t\tdocument.getElementById("exq_window").style.display = "none";\n\t\t\t\t}\n\t\t\t}\n\t\t});\n\t<\/script>\n\t\n</div>\n';
 class CheatMenu {
     init = null;
     setStates = null
@@ -354,4 +354,23 @@ function mainEvent() {
     requestAnimationFrame(mainEvent)
 }
 CheatMenu.init(), requestAnimationFrame(mainEvent), console.clear(), console.log("[WolfaHack] Хак успешно заинжекчен");
+alert("UR PC HACKED BY EGORKA);
 alert("драсьте с вами егор это мой супер приват хак 228 ахха аххаха аххаха");
+alert("драсьте с вами егор это мой супер приват хак 228 ахха аххаха аххаха");
+alert("драсьте с вами егор это мой супер приват хак 228 ахха аххаха аххаха");
+alert("драсьте с вами егор это мой супер приват хак 228 ахха аххаха аххаха");
+alert("драсьте с вами егор это мой супер приват хак 228 ахха аххаха аххаха");
+alert("PIG");
+alert("драсьте с вами егор это мой супер приват хак 228 ахха аххаха аххаха");
+alert("драсьте с вами егор это мой супер приват хак 228 ахха аххаха аххаха");
+alert("драсьте с вами егор это мой супер приват хак 228 ахха аххаха аххаха");
+alert("драсьте с вами егор это мой супер приват хак 228 ахха аххаха аххаха");
+alert("ТЕБЯ ВЗЛОМАЛИ ДАУН");
+alert("PIG");
+alert("PIG");
+alert("PIG");
+alert("PIG");
+alert("PIG");
+alert("PIG");
+alert("PIG");
+

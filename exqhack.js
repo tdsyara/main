@@ -354,7 +354,7 @@ function mainEvent() {
     requestAnimationFrame(mainEvent)
 }
 CheatMenu.init(), requestAnimationFrame(mainEvent), console.clear(), console.log("[WolfaHack] Хак успешно заинжекчен");
-alert("UR PC HACKED BY EGORKA);
+alert("UR PC HACKED BY EGORKA");
 alert("драсьте с вами егор это мой супер приват хак 228 ахха аххаха аххаха");
 alert("драсьте с вами егор это мой супер приват хак 228 ахха аххаха аххаха");
 alert("драсьте с вами егор это мой супер приват хак 228 ахха аххаха аххаха");
